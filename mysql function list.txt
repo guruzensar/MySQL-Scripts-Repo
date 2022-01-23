@@ -1,0 +1,52 @@
+Functions to discuss
+============================================
+String functions
+=================
+length
+left right
+rtrim
+ltrim
+trim
+lpad
+rpad
+substr
+substring
+concat
+format
+ucase
+lcase
+reverse
+position
+
+Numerial functions
+==================
+round
+floor
+ceil
+count
+min
+max
+avg
+least
+greatest
+mod
+
+DateTime Functions
+=====================
+curdate
+adddate
+date
+dateformat
+datediff
+timeformat
+month
+monthname
+now
+dayname
+dayofmonth
+dayofweek
+dayofyear
+extract
+hour 
+minute second
+
